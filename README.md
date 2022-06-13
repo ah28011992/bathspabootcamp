@@ -1,5 +1,5 @@
 # bathspabootcamp
-This repo is where all my Bath Spa Web Dev portfolio learning and portfolio is going to be stored
+This repo is where all my Bath Spa Web Dev portfolio learning is going to be stored
 
 Check it out! 
 <br>
